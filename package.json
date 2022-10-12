@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/aurbini/fullstack-apollo-boilterplate#readme",
   "dependencies": {
-    "apollo-server": "^2.15.1",
+    "apollo-server": "^2.25.4",
     "apollo-server-express": "^2.15.1",
     "cors": "^2.8.5",
     "esm": "^3.2.25",
